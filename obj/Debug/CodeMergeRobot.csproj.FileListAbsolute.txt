@@ -1,0 +1,15 @@
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\bin\Debug\CodeMergeRobot.exe.config
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\bin\Debug\CodeMergeRobot.exe
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\bin\Debug\CodeMergeRobot.pdb
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.csprojResolveAssemblyReference.cache
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\MainWindow.g.cs
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\App.g.cs
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot_MarkupCompile.cache
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot_MarkupCompile.lref
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\MainWindow.baml
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.g.resources
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.Properties.Resources.resources
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.csproj.GenerateResource.Cache
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.csproj.CoreCompileInputs.cache
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.exe
+C:\CISFM-V2\tools\CodeMergeRobot\CodeMergeRobot\obj\Debug\CodeMergeRobot.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Class="CodeMergeRobot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CodeMergeRobot"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="375.529" Width="715.235">
+    <Grid Margin="0,0,-168,-21">
+        <TextBox x:Name="TxtAddress" HorizontalAlignment="Left" Height="34" Margin="52,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="460"/>
+        <Button x:Name="BtnBrowser" Content="浏览" HorizontalAlignment="Left" Margin="537,22,0,0" VerticalAlignment="Top" Width="87" Height="34" Click="Button_Click"/>
+        <ListBox x:Name="ListFiles" HorizontalAlignment="Left" Height="257" Margin="52,72,0,0" VerticalAlignment="Top" Width="460"/>
+        <Button x:Name="BtnStart" Content="开始" HorizontalAlignment="Left" Margin="537,130,0,0" VerticalAlignment="Top" Width="87" Height="37" Click="BtnStart_Click"/>
+        <Button x:Name="BtnLoad" Content="加载路径" HorizontalAlignment="Left" Height="37" Margin="537,72,0,0" VerticalAlignment="Top" Width="87" Click="BtnLoad_Click"/>
+
+    </Grid>
+</Window>
